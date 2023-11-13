@@ -17,6 +17,7 @@ Author E-mail: rockybd1995@gmail.com
 
 @Default Styles
 
+
 Table of Content:
 01/ Variables
 02/ predefin
@@ -500,7 +501,7 @@ button:focus {
 }
 
 .banner_area .bg-parallax {
-  background: url("../image/banner_bg.jpg") no-repeat scroll center 0/cover;
+  background: url("../image/royalcaribbean_Cruzeiros.jpg") no-repeat scroll center 0/cover;
   opacity: 0.50;
 }
 
@@ -673,7 +674,9 @@ button:focus {
 }
 
 .breadcrumb_area .bg-parallax {
-  background: url("../image/about_banner.jpg") no-repeat scroll center 0/cover;
+
+  background: url("../image/royalcaribbean_back-ground.jpg") no-repeat scroll center 0/cover;
+
   opacity: 0.50;
   z-index: -1;
 }
@@ -829,7 +832,7 @@ button:focus {
 }
 
 .facilities_area .bg-parallax {
-  background: url("../image/facilites_bg.jpg") no-repeat scroll center 0/cover;
+  background: url("../image/navioroyalcaribbean_otimizadas.jpg") no-repeat scroll center 0/cover;
   opacity: 0.15;
 }
 
